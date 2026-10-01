@@ -15,14 +15,14 @@ Gosto de transformar informação dispersa em indicadores e análises que ajudam
 ## 📊 Sobre mim
 
 - 🎓 Graduando em Administração pela UFRJ (formando em dez/2026)
-- 📦 Estagiário de Supply Chain na EssilorLuxottica, atuando com indicadores (KPIs), melhoria de processos e análise de bases
+- 📦 Estagiário de Supply Chain na EssilorLuxottica, atuando com indicadores (KPIs), acompanhamento de projetos, melhoria de processos e análise de dados
 - 📈 Formação concluída em Power BI para Business Intelligence e Data Science (Data Science Academy)
 - 🎯 Foco em Dados & BI aplicados a planejamento e supply chain
 - 🌱 Em desenvolvimento contínuo em SQL e análise de dados
 
 ## 📂 Portfólio
 
-- 📊 [Power BI - Portfólio](https://github.com/felipechanm/Power-BI---Portfolio) — dashboards de vendas, logística, RH, financeiro e mercado financeiro
+- 📊 [Power BI - Portfólio](https://github.com/felipechanm/Power-BI---Portf-lio) — dashboards de vendas, logística, RH, financeiro e mercado financeiro
 
 ## 📫 Contato
 
