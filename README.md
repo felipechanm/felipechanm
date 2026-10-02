@@ -1,10 +1,10 @@
-# Olá! 👋 Sou o Felipe
+# Hi! 👋 I'm Felipe
 
-Estudante de Administração na **UFRJ** (formando em dez/2026) e profissional em início de carreira em **Dados & Business Intelligence**, com atuação em **Supply Chain** na EssilorLuxottica.
+Business Administration student at **UFRJ** (graduating Dec/2026) and an early-career professional in **Data & Business Intelligence**, currently working in **Supply Chain** at EssilorLuxottica.
 
-Gosto de transformar informação dispersa em indicadores e análises que ajudam times a enxergar gargalos e decidir melhor.
+I enjoy turning scattered information into indicators and analyses that help teams spot bottlenecks and make better decisions.
 
-## 🧰 Ferramentas
+## 🧰 Tools
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -12,19 +12,19 @@ Gosto de transformar informação dispersa em indicadores e análises que ajudam
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## 📊 Sobre mim
+## 📊 About me
 
-- 🎓 Graduando em Administração pela UFRJ (formando em dez/2026)
-- 📦 Estagiário de Supply Chain na EssilorLuxottica, atuando com indicadores (KPIs), acompanhamento de projetos, melhoria de processos e análise de dados
-- 📈 Formação concluída em Power BI para Business Intelligence e Data Science (Data Science Academy)
-- 🎯 Foco em Dados & BI aplicados a planejamento e supply chain
-- 🌱 Em desenvolvimento contínuo em SQL e análise de dados
+- 🎓 Business Administration undergraduate at UFRJ (graduating Dec/2026)
+- 📦 Supply Chain Intern at EssilorLuxottica, working with KPIs, project tracking, process improvement, and data analysis
+- 📈 Completed a Power BI for Business Intelligence and Data Science program (Data Science Academy)
+- 🎯 Focused on Data & BI applied to planning and supply chain
+- 🌱 Continuously developing my SQL and data analysis skills
 
-## 📂 Portfólio
+## 📂 Portfolio
 
-- 📊 [Power BI - Portfólio](https://github.com/felipechanm/Power-BI---Portf-lio) — dashboards de vendas, logística, RH, financeiro e mercado financeiro
+- 📊 [Power BI - Portfolio](https://github.com/felipechanm/Power-BI---Portf-lio) — dashboards for sales, logistics, HR, finance, and the stock market
 
-## 📫 Contato
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipechanmeleiro/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipechanm@gmail.com)
